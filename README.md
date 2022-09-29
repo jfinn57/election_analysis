@@ -4,6 +4,7 @@ Our friends Seth and Tom were overlooking the election for their hometowns and t
 
 ## Election Audit Results
 
+![Election Results](https://github.com/jfinn57/election_analysis/blob/main/election_results.PNG)
 
 ## Election Audit Summary
 
